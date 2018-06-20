@@ -30,4 +30,4 @@ end
 #   # into uppercased Strings, creates a new array with these values, and then puts each upcase key in the CLI
 # end
 
-add_a_key_value_pair
+puts add_a_key_value_pair
