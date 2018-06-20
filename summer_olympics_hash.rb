@@ -20,6 +20,8 @@ def add_a_key_value_pair
   summer_olympics["atlanta"] = "1996"
 end
 
+puts add_a_key_value_pair
+
 # def iterate_through_hash
 #   # Implement this method so that it iterates over the hash created in add_a_key_value_pair
 #   # and puts each key value pair within the phrase "The _____ summer olympics took place in _____."
@@ -30,4 +32,4 @@ end
 #   # into uppercased Strings, creates a new array with these values, and then puts each upcase key in the CLI
 # end
 
-puts add_a_key_value_pair
+
