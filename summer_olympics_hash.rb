@@ -17,7 +17,7 @@ def add_a_key_value_pair
     "beijing" => "2008", 
     "london" => "2012"
   }
-  summer_olympics["atlanta"] = "1996"
+  #summer_olympics["atlanta"] = "1996"
 end
 
 puts add_a_key_value_pair
