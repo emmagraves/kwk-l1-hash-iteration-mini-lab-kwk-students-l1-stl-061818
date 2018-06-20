@@ -11,6 +11,12 @@ end
 
 def add_a_key_value_pair
   # Implement this method so that it adds a key value pair to the hash created in create_olympics_hash
+   summer_olympics = {
+    "sydney" => "2000", 
+    "athens" => "2004", 
+    "beijing" => "2008", 
+    "london" => "2012"
+  }
   summer_olympics["atlanta"] = "1996"
 end
 
